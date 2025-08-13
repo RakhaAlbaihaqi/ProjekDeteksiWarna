@@ -8,7 +8,6 @@ from streamlit_webrtc import webrtc_streamer, VideoTransformerBase # Import ini
 # --- 1. Konfigurasi Aplikasi Streamlit ---
 st.set_page_config(
     page_title="Real-time Color Detector",
-    page_icon="🎨",
     layout="wide",
 )
 
