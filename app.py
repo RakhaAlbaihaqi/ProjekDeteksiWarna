@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🎨 Real-time Color Detector with YOLOv8")
+st.title("Deteksi Warna Secara Real-time menggunakan YOLOv8")
 st.write("Deteksi warna secara real-time menggunakan model YOLOv8 yang telah dilatih.")
 
 # Inisialisasi session_state (sekarang tidak digunakan untuk kontrol start/stop utama)
